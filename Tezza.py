@@ -7,7 +7,7 @@ import time
 
 #initiaalize firefox browser
 driver = webdriver.Firefox()
-driver.get("https://tezzasolutions.com/software-testing/")
+driver.get("https://tezzasolutions.com")
 driver.maximize_window()
 time.sleep(3)
 
